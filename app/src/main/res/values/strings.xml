@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="todo">TODO</string>
+    <string name="veg_0">Cucumber</string>
+    <string name="veg_1">Ginger</string>
+    <string name="veg_2">Eggplant</string>
+    <string name="veg_3">Bitter Gourd</string>
+    <string name="veg_4">Avocado</string>
+    <string name="veg_5">Bell Pepper(Red) </string>
+    <string name="veg_6">Potato</string>
+    <string name="veg_7">Cabbage</string>
+    <string name="veg_8">Coriander leaves</string>
+    <string name="veg_9">Mushroom</string>
+    <string name="veg_10">aaaaaa</string>
+    <string name="veg_11">Carrot</string>
+    <string name="veg_12">Bell pepper(green)</string>
+    <string name="veg_13">Cauliflower</string>
+    <string name="veg_14">Spinach</string>
+    <string name="veg_15">Onion</string>
+    <string name="veg_16">Tomato</string>
+    <string name="veg_17">Pumpkin</string>
+    <string name="veg_18">Bitter Gourd(local)</string>
+    <string name="veg_19">Radis</string>
+
+
+
+
+
+
+    <string name="rate"><b>Ratings:</b>★★★★★</string>
+    <string name="quantity">20kg available</string>
+    <string name="price"><b>Price:</b>$$$$$</string>
+    <string name="todo1">TODO</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+
+</resources>
